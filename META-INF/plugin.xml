@@ -1,5 +1,5 @@
 <idea-plugin>
-  <id>kainos.liveTempaltes.extend.shortcuts</id>
+  <id>kainos.liveTemplates.extend.shortcuts</id>
   <name>Kainos Extend Shortcuts</name>
   <version>1.0</version>
   <vendor>adelrío</vendor>
