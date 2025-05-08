@@ -1,0 +1,8 @@
+<idea-plugin>
+  <id>kainos.liveTempaltes.extend.shortcuts</id>
+  <name>Kainos Extend Shortcuts</name>
+  <version>1.0</version>
+  <vendor>adelrío</vendor>
+  <description>Extend shortcuts with examples</description>
+  <idea-version since-build="193.0"/>
+</idea-plugin>
