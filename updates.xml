@@ -2,7 +2,7 @@
     <plugin id="kainos.liveTemplates.extend.shortcuts"
             url="https://aadelrio.github.io/intellij-live-templates-extend-shortcuts/extend_shortcuts_plugin.zip"
             version="1.0">
-        <name>Workday Extend Shortcuts</name>
+        <name>Kainos Extend Shortcuts</name>
         <description>Extend shortcuts with examples</description>
         <idea-version since-build="193.0"/>
     </plugin>
